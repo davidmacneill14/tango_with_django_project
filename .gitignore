@@ -2,3 +2,5 @@
 __pycache__
 thumbs.db
 *.key
+tango_with_django_project/__pycache__/*
+tango_with_django_project
